@@ -15,10 +15,12 @@ module.exports = {
           lightest: "#F5F6F6"
         },
         cust: {
+          black: "#333333",
           blue: "#3591C5",
           lake: "#7FC0C5",
           teal: "#D08181",
-          olive: "#52797C"
+          olive: "#52797C",
+          border: "#E7E7E7"
         }
       },
       borderRadius: {
